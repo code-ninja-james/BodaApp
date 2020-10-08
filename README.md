@@ -13,7 +13,7 @@ Designed for android . *Not yet developed for ios, but I'm working on updating i
 **Download**
 ---
 
-1. Download with :
+1. Download with :<br/>
      `$ git clone https://github.com/code-ninja-james/BodaApp `
 
 
