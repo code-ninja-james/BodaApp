@@ -1,7 +1,5 @@
 # BodaApp
 
-![Boda Logo](https://github.com/code-ninja-james/BodaApp/blob/master/mobile/images/logo.png)
-
 `Boda` is a react-native taxi app template.
 
 **BodaApp**
