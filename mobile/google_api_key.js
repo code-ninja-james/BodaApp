@@ -1,3 +1,3 @@
-const apiKey = "AIzaSyC3H6gZmNw-SygXroNfNYQdDJDGMUL8qfI";
+const apiKey = "YourGoogleApiKey";
 
 module.exports = apiKey;
