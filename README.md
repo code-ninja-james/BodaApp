@@ -14,7 +14,7 @@ Designed for android . *Not yet developed for ios, but I'm working on updating i
 ---
 
 1. Download with :
-    + `$ git clone https://github.com/code-ninja-james/BodaApp `
+     `$ git clone https://github.com/code-ninja-james/BodaApp `
 
 
 **Configuration**
