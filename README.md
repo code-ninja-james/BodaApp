@@ -3,7 +3,7 @@
 `Boda` is a react-native taxi app template.
 
 **BodaApp**
-   ![Boda App](https://j.gifs.com/k8316K.gif)](https://www.youtube.com/watch?v=uB-jRfi4Hdk&t=82s)
+    [![Demo CountPages alpha](https://j.gifs.com/Gvl08r.gif)](https://www.youtube.com/watch?v=uB-jRfi4Hdk&t=82s)[Watch in youtube](https://www.youtube.com/watch?v=uB-jRfi4Hdk&t=82s)
    
 Designed for android . *Not yet developed for ios, but I'm working on updating it!*
 
